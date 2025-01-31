@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9341eae9-7325-4666-a82a-58b421c62a2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Veckouppgift_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veckouppgift4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veckouppgift4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokerhands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spelet21.py" afterDir="false" />
-    </list>
+    <list default="true" id="9341eae9-7325-4666-a82a-58b421c62a2f" name="Changes" comment="Veckouppgift4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1738005494011</updated>
     </task>
+    <task id="LOCAL−00001" summary="Veckouppgift4">
+      <option name="closed" value="true" />
+      <created>1738334476402</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1738334476402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Veckouppgift4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift4" />
   </component>
 </project>
