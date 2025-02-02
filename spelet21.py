@@ -1,7 +1,6 @@
 #version 1
 import random
 
-
 def forsta_talet():
     summa = 0
     tal = 1

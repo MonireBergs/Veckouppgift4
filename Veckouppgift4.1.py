@@ -5,7 +5,6 @@ def foo(t):
     print("test")
 foo("hej")
 
-
 #för att skriva ut hej måste man skriva så här:
 print("uppgift 1a rätt version:")
 def foo(t):

@@ -32,10 +32,10 @@ def sluta_loopa():
 sluta_loopa()
 
 # #4skriv en funktion med last och skriv ut sista siffran i listan
-# def last(lista):
-#     return lista[2]
-#
-# print(last([1,2,3]))
+def last(lista):
+    return lista[2]
+
+print(last([1,2,3]))
 
 #5.Skriv en funktion med namnet cut_edges. Den ska ta en lista som parameter. När den anropas ska den returnera en ny lista, där den har tagit bort första och sista elementet.
 
