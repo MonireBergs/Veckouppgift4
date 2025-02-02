@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9341eae9-7325-4666-a82a-58b421c62a2f" name="Changes" comment="Veckouppgift4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veckouppgift4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veckouppgift4.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veckouppgift4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veckouppgift4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokerhands.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokerhands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spelet21.py" beforeDir="false" afterPath="$PROJECT_DIR$/spelet21.py" afterDir="false" />
-    </list>
+    <list default="true" id="9341eae9-7325-4666-a82a-58b421c62a2f" name="Changes" comment="Veckouppgift4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +85,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1738334619909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Veckouppgift4">
+      <option name="closed" value="true" />
+      <created>1738523856010</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1738523856010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
